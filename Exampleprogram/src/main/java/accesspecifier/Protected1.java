@@ -10,7 +10,6 @@ public class Protected1 extends ExProtectClass
 	{
 		Protected1 pro=new Protected1();
 		pro.display();
-		System.out.println("Hi");
 	}
 
 }
