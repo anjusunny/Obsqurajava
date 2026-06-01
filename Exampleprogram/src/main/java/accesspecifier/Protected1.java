@@ -1,5 +1,6 @@
 package accesspecifier;
 
+
 import protectedaccess.ExProtectClass;
 
 public class Protected1 extends ExProtectClass
