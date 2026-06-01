@@ -1,6 +1,5 @@
 package superKeyWord;
 
-
 public class ChildClass extends ParentClass
 {
 	int x = 40;

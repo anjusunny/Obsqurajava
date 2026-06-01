@@ -1,6 +1,5 @@
 package superKeyWord;
 
-
 public class ChildConstructor extends ParentConstructor
 {
 	public ChildConstructor()

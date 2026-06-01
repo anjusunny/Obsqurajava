@@ -1,6 +1,5 @@
 package accesspecifier;
 
-
 public class ExamplePrivate 
 {
 	private void salary(int sal)

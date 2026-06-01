@@ -1,6 +1,5 @@
 package accesspecifier;
 
-
 public class Student 
 {
 

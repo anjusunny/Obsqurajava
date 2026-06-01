@@ -1,6 +1,5 @@
 package superKeyWord;
 
-
 public class ParentTwo 
 {
 	public void result()

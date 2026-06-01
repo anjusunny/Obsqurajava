@@ -1,6 +1,5 @@
 package superKeyWord;
 
-
 public class ChildTwo extends ParentTwo
 {
 	public void result()
